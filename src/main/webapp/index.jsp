@@ -6,3 +6,6 @@
 </body>
 </html>
 This is the continuous integration and continuous delivery deployment project 
+
+<h2>Welcome to the new session of performed CI CD operations as CI -jenkins and CD- ansible --tomcat deploy ...!</h2>
+<h2> sucessfully done with the task....</h2>
