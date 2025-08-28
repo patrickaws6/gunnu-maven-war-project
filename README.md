@@ -9,8 +9,8 @@
 # mvn clean package
 It will build the (war) package with al the required classes.
 # push the code to github
-git init
-git add .
+git init \n
+git add . \n
 git status
 git commit -m "initial commit: index.jsp" or
 git branch -M main
